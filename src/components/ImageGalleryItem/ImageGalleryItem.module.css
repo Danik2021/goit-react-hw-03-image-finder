@@ -1,0 +1,16 @@
+.ImageGalleryItem {
+  max-width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.ImageGalleryItem img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+.ImageGalleryItem:hover {
+  cursor: pointer;
+  transform: scale(1.01);
+  transition: transform 0.5s ease-in-out;
+}

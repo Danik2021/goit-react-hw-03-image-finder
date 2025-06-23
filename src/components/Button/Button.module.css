@@ -1,0 +1,14 @@
+.buttonShowMore {
+  display: flex;
+  /* margin: 0 auto; */
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 50px;
+  background-color: #00b7ff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}

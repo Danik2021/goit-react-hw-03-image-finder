@@ -1,0 +1,8 @@
+.ImageGallery {
+  max-width: 1450px;
+  margin: 0 auto;
+  padding: 10px;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(140px, 1fr));
+  gap: 10px 20px;
+}
